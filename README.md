@@ -26,9 +26,6 @@ This is the list of things you need to replicate our paper and models
 
 [@theutkuturk](https://twitter.com/theutkuturk) & [@pavellogacev](https://twitter.com/pavellogacev)
 
-Project Link: 
-
-[https://github.com/utkuturk/AgreementAttraction_Experiment](https://github.com/utkuturk/AgreementAttraction_Experiment)
 
 OSF Link: [https://osf.io/x9pv7/](https://osf.io/x9pv7/)
 
